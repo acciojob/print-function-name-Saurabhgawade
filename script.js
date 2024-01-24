@@ -3,4 +3,4 @@ function demo() {
 	
 	
 }
-alert.(argument.callee.demo);
+alert.(arguments.callee.demo);
